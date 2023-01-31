@@ -1,1 +1,22 @@
-https://www.w3schools.com/graphics/canvas_intro.asp
+- Front end:
+	1- https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3 	(Pour savoir la base)
+	2- https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript		(Apprendre la synthaxe javascript)
+	3- https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript	(Pour récupérer des évènements utilisateurs)
+	4- https://openclassrooms.com/fr/courses/7008001-debutez-avec-react				(Débuter avec React)
+	5- https://www.codecademy.com/learn/react-101							(Pour débuter autrement)
+  
+  https://www.w3schools.com/graphics/canvas_intro.asp
+  https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/imageSmoothingEnabled
+  
+- Client:
+	1- https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript		(Commun avec
+	2- https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript	  le front)
+	3- https://cryptozombies.io/en/lesson/6								(Apprendre à utiliser Web3.js)
+	4- https://web3js.readthedocs.io/en/v1.8.1/							(Documentation Web3.js)
+  
+  
+  
+- Smart Contracts:
+	1- https://cryptozombies.io/en/course/								(Tutoriel pour se familiariser avec solidity)
+	2- https://solidity-by-example.org/app/erc20/							(Exemples de Smart Contracts utilisant le standard erc20)
+	3- https://solidity-by-example.org								(Super site référençant un grand nombre d'exemples de complexité croissante) (modifié) 
